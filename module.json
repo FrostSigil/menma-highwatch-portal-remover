@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": false,
+    "name": "portal-remove",
+    "author": "hsdn",
+    "description": "Remove portal in Highwatch on Menma's",
+    "options": {
+        "cliName": "portal-remove",
+        "guiName": "portal-remove"
+    },
+    "servers": ["https://raw.githubusercontent.com/FrostSigil/menma-highwatch-portal-remover/master/"]
+}
